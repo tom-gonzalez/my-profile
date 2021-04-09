@@ -1,0 +1,98 @@
+body {
+background-color: #f4f2f3ff;
+color: #031927ff;
+font-family: font-family: 'Lora', serif;
+font-weight: 10;
+}
+h1 {
+color: #031927ff;
+font-family: font-family: 'Roboto', sans-serif;
+font-size: px;
+font-weight: 700;
+}
+h2 {
+color: #9ebc9fff;
+font-family: font-family: 'Roboto', sans-serif;
+font-weight: 600;
+}
+a{
+text-decoration: none;
+color: #1f7a8cff;
+font-family: font-family: 'Roboto', sans-serif;
+font-weight: 600;
+}
+a:hover {
+color: #d3b88cff;
+font-weight: 800
+font-size:80px;
+}
+
+
+
+
+.container {
+width: 1200px;
+margin: 20px auto;
+}
+.card-white {
+background-color: white;
+padding: 40px;
+box-shadow: 20px 10px 30px rgba(0,0,0,0.1);
+border-radius: 1px;
+margin: 20px 40px;
+text-align: center;
+}
+.img-cercle {
+border-radius: 50%
+}
+.btn-blue {
+background:  #1f7a8cff;
+color: #9ebc9fff;
+padding: 10px 15px;
+border-radius: 1000px;
+}
+.btn-blue:hover {
+background-color: #d3b88cff ;
+color: #1f7a8cff;
+}
+.btnfootball-blue:hover {
+background-color:  #f4f2f3ff;
+color: white;
+}
+.btnfootball-blue {
+background: white;
+color: black;
+padding: 15px 20px;
+border-radius: 100px;
+}
+.btnpolitics-blue {
+background: white;
+color: black;
+padding: 500px 500px;
+border-radius: 400px;
+}
+.btnpolitics-blue:hover {
+background-color: #f4f2f3ff;
+color: white;
+}
+.list-inline {
+list-style: none;
+padding-left: 0px;
+}
+.list-inline li{
+display: inline;
+padding: 10px;
+}
+.list-inline i{
+font-size: 50px;
+color: #1f7a8cff;
+}
+.list-inline i:hover {
+font-size: 60px;
+color: #d3b88cff;
+}
+
+
+#introduction p {
+margin-bottom: 50px auto;
+}
